@@ -1,0 +1,62 @@
+main{
+
+ padding:200px;
+ font-size: 0;
+
+}
+
+.box{
+  
+   
+   margin-left: auto;
+   margin-right: auto;
+   display: inline-block;
+   border:1px black solid;
+   
+   
+
+}
+
+
+
+.green{
+
+ height:200px;
+ background-color: green;
+ width:50%;
+
+}
+
+
+.blue{
+
+height:200px;
+background-color: blue;
+width:50%;
+
+}
+
+.grey{
+
+
+height:300px;
+background-color: grey;
+width:33.3%;
+
+}
+
+.black{
+
+height:300px;
+background-color: black;
+width:33.3%;
+}
+
+.orange{
+	
+height:300px;
+background-color: orange;
+width:33.3%;
+
+
+}
