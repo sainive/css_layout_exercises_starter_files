@@ -17,55 +17,47 @@ main{
 
 
 .green{
-
+	
 height: 200px;
 width: 50%;
 background-color: green;
-display: inline-block;
- border:1px black solid;
-
-
-}
-
-
-.blue{
-
-height: 200px;
-width: 50%;
-background-color: blue;
 display: inline-block;
 border:1px black solid;
 
 }
 
-.grey{
 
+.blue{
+height: 200px;
+width: 50%;
+background-color: blue;
+display: inline-block;
+border:1px black solid;
+}
+
+
+.grey{
 
 height:300px;
 background-color: grey;
 width:33.3%;
 display: inline-block;
- border:1px black solid;
-
+border:1px black solid;
 }
 
 .black{
-
 height:300px;
 background-color: black;
 width:33.3%;
 display: inline-block;
- border:1px black solid;
+border:1px black solid;
 
 }
 
-.orangr{
-	
+.orange{	
 height:300px;
 background-color: orange;
 width:33.3%;
- display: inline-block;
-  border:1px black solid;
-
-
+display: inline-block;
+border:1px black solid;
 }
